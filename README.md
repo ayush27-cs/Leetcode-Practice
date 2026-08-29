@@ -6,5 +6,18 @@ the basic problems solutions of leetcode
 ## String
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3110-score-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

@@ -20,4 +20,8 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+## Math
+|  |
+| ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->

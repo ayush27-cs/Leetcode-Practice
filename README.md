@@ -15,6 +15,7 @@ the basic problems solutions of leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -23,5 +24,6 @@ the basic problems solutions of leetcode
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->

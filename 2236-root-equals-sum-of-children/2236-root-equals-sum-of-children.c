@@ -15,7 +15,6 @@ bool checkTree(struct TreeNode* root) {
 
     if (root->val == sum) {
         return true;
-    } else {
-        return false;
-    }
+    } 
+    return false;
 }

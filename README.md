@@ -32,4 +32,12 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->

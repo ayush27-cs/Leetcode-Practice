@@ -11,6 +11,7 @@ the basic problems solutions of leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ the basic problems solutions of leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Tree
 |  |

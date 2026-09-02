@@ -29,11 +29,13 @@ the basic problems solutions of leetcode
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |

@@ -34,6 +34,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
@@ -44,4 +45,8 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2236-root-equals-sum-of-children) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->

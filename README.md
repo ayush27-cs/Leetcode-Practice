@@ -26,6 +26,7 @@ the basic problems solutions of leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |

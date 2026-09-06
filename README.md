@@ -37,6 +37,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -57,4 +58,8 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1688-count-of-matches-in-tournament) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

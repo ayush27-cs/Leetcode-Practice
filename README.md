@@ -6,6 +6,7 @@ the basic problems solutions of leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3110-score-of-a-string) |
 ## Hash Table
@@ -62,4 +63,8 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

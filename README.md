@@ -34,6 +34,7 @@ the basic problems solutions of leetcode
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3870-count-commas-in-range](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |

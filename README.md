@@ -7,6 +7,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3110-score-of-a-string) |
 ## Hash Table
@@ -67,4 +68,5 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

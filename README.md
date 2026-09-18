@@ -44,6 +44,7 @@ the basic problems solutions of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -70,6 +71,7 @@ the basic problems solutions of leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -84,4 +86,9 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

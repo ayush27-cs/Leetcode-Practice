@@ -7,6 +7,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -16,6 +17,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -91,4 +93,8 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

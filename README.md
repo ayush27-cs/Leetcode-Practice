@@ -34,6 +34,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0007-reverse-integer) |
+| [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -98,4 +99,24 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0242-valid-anagram) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

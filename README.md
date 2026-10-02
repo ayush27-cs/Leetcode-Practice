@@ -50,6 +50,7 @@ the basic problems solutions of leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -99,6 +100,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 ## Brainteaser
 |  |
 | ------- |

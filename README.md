@@ -24,6 +24,7 @@ the basic problems solutions of leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -49,6 +50,7 @@ the basic problems solutions of leetcode
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |

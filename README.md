@@ -24,6 +24,7 @@ the basic problems solutions of leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -48,6 +49,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0260-single-number-iii) |

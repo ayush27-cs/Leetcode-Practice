@@ -49,6 +49,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -85,6 +86,7 @@ the basic problems solutions of leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0283-move-zeroes) |

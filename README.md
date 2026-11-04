@@ -37,6 +37,7 @@ the basic problems solutions of leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1688-count-of-matches-in-tournament) |

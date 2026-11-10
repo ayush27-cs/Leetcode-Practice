@@ -38,6 +38,7 @@ the basic problems solutions of leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0292-nim-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/1688-count-of-matches-in-tournament) |
@@ -52,6 +53,7 @@ the basic problems solutions of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush27-cs/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
